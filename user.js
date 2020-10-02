@@ -12,7 +12,7 @@ let cards = [
     ["Vimal Kumar", "./img/vimalverma558.jpg", "Web Developer and designer", "https://github.com/vimalverma558"],
     ["Vikas shah", "./img/vik.jpg", "Web Developer", "https://github.com/vikasshah0"],
     ["Dede Saepulloh", "./img/dedesaepulloh.png", "Android & Web Developer", "https://github.com/dedesaepulloh"]
-
+    ["Namish kumar", "./img/username.png", "Students", "https://github.com/namish25"],
 
     
 ]
