@@ -63,4 +63,4 @@ So we highly recommend you to contribute in a meaningful way to other [Hacktober
   <img src="https://contributors-img.web.app/image?repo=IIITians-Network/HacktoberFest" />
 </a>
 
-Made with [contributors-img](https://contributors-img.web.app).
+Img Made with [contributors-img](https://contributors-img.web.app).
