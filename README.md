@@ -57,10 +57,3 @@ That said, only high-quality contributions and pull requests that add value to O
 So we highly recommend you to contribute in a meaningful way to other [Hacktoberfest issues](https://hacktoberfest.digitalocean.com/#projects) and not rely on this repository alone.
 
 
-## :star_struck: Awesome contributors:
-
-<a href="https://github.com/IIITians-Network/HacktoberFest/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=IIITians-Network/HacktoberFest" />
-</a>
-
-Made with [contributors-img](https://contributors-img.web.app).
